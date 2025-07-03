@@ -42,7 +42,7 @@ This app uses **Stable Diffusion** to generate high-quality images from text pro
 "A dreamlike forest with glowing mushrooms"
 
 ## 🙋‍♂️ Developed by
-# Darshan Upadhye
+### Darshan Upadhye
 📌 GitHub | 🌐 Portfolio
 
 
