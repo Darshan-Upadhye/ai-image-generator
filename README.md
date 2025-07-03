@@ -3,7 +3,7 @@
 Turn your imagination into art!  
 This app uses **Stable Diffusion** to generate high-quality images from text prompts using **Streamlit**.
 
-(https://github.com/Darshan-Upadhye/ai-image-generator/blob/main/assets/ai-text-to-image-generator.png)
+https://github.com/Darshan-Upadhye/ai-image-generator/blob/main/assets/ai-text-to-image-generator.png
 
 ---
 
