@@ -68,6 +68,6 @@ st.markdown("""
     </style>
 
     <div class="footer">
-        © 2025 Developed by <a href="https://github.com/darshanupadhye" target="_blank">Darshan Akshay Upadhye</a>
+        © 2025 Developed by <a href="https://www.linkedin.com/in/darshan-upadhye-02a9a5287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh1sFDQTwSO6Zc0SEZPz2jw%3D%3D" target="_blank">Darshan Akshay Upadhye</a>
     </div>
 """, unsafe_allow_html=True)
