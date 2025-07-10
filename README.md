@@ -11,7 +11,7 @@ This app uses **Stable Diffusion** to generate high-quality images from text pro
 
 ## 🚀 Live Demo
 
-🌐 [Click here to try it out] (https://ai-image-generator-by-darshan-upadhye.streamlit.app/)
+🌐 [Click here to try it out](https://ai-image-generator-by-darshan-upadhye.streamlit.app/)
 
 ---
 
